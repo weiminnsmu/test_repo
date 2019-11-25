@@ -22,8 +22,8 @@ class Section{
         $this->SIZE = $size;
         $this->VACANCY = $vacancy;
         $this->MB = $mb;
-    } I edit 25
-
+    }
+heheheheheheheh
     public function getCID(){
         return $this->CID;
     }
