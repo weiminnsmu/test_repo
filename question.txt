@@ -22,7 +22,7 @@ class Section{
         $this->SIZE = $size;
         $this->VACANCY = $vacancy;
         $this->MB = $mb;
-    }
+    } I edit 25
 
     public function getCID(){
         return $this->CID;
